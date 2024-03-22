@@ -1,0 +1,5 @@
+CALENDAR_URL = 'http://davcal_url'
+USER = 'username'
+PASSWORD = 'password'
+TARGET_ALL = '/absolute/path/to/all.ics'
+TARGET_PUBLIC = '/absolute/path/to/public.ics'
