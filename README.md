@@ -7,13 +7,13 @@ containing only the events which are public.
 The resulting files end up in a `www` subdirectory.
 
 ## Install
-
+```
 git clone https://github.com/Eigenbaukombinat/kalenderfilter.git
 cd kalenderfilter
 mkdir www
 python3 -m venv py3
 cp config.py.example config.py
-
+```
 Now edit config.py to your needs!
 
 ## Running
